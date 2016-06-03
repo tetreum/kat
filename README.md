@@ -6,7 +6,7 @@ Unofficial Kat.cr / KickAssTorrents PHP SDK.
 
 #### Install
 
-    composer require tetreum/kat "1.*"
+    composer require tetreum/kat dev-master
 
 #### Available methods
 
